@@ -68,17 +68,17 @@ nav a:hover {
 
 @media (max-width: 600px) {
   .Logo {
-    max-height: 40px; /* Уменьшаем размер логотипа на маленьких экранах */
+    max-height: 40px;
   }
 
   .nav-icon {
-    max-height: 25px; /* Уменьшаем размер иконок в меню на маленьких экранах */
+    max-height: 25px;
   }
 
   nav ul {
     list-style: none;
     display: flex;
-    gap: 2.5rem; /* Увеличиваем расстояние между элементами */
+    gap: 2.5rem;
     margin: 0;
     padding: 0;
   }
